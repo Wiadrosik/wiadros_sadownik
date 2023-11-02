@@ -1,7 +1,7 @@
 ### Wiadros Sadownik
 > A simple sadownik job script with config
 
-> [!DISCORD]
+> [!NOTE]
 > Our [Discord](https://discord.gg/j89sqU69P6).
 
 > [!IMPORTANT]
