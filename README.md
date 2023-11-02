@@ -6,6 +6,6 @@
 
 > [!IMPORTANT]
 > Dependencies:
-> es_extended
-> ox_lib
+> es_extended,
+> ox_lib,
 > ox_target
