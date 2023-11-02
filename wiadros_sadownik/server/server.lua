@@ -53,8 +53,6 @@ AddEventHandler('wiadros_sadownik:server:sellItems', function()
             local itemEarnings = itemCount * item.price
             earnings = earnings + itemEarnings
             xPlayer.removeInventoryItem(item.name, itemCount)
-        else
-            TriggerClientEvent('esx:showNotification', source, 'Nie masz żadnych produktów do sprzedania')
         end
     end
 
