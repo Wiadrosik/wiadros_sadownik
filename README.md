@@ -1,8 +1,11 @@
 ### Wiadros Sadownik
-> A simple sadownik job script with config
+> Prosty skrypt pracy sadownika z configiem
 
 > [!NOTE]
-> Our [Discord](https://discord.gg/j89sqU69P6).
+> [Discord](https://discord.gg/j89sqU69P6).
 
 > [!IMPORTANT]
-> You Need ESX Framework for this to work
+> Dependencies:
+> es_extended
+> ox_lib
+> ox_target
