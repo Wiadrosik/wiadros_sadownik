@@ -9,3 +9,5 @@
 > es_extended,
 > ox_lib,
 > ox_target
+>
+> Skrypt nie jest zabezpieczony (Najlepiej podpiąć jakiegoś tokenizera)
