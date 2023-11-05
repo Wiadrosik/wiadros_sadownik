@@ -1,12 +1,11 @@
 Config = {}
 
 Config.Target = {
-    Name = "ox_target",
     Debug = false
 }
 
 Config.Peds = {
-    {Name = "a_m_m_eastsa_02", x = 408.2874, y = 6498.5161, z = 27.7665-0.99, h = 171.7359}, -- SŁÓŻBA
+    {Name = "a_m_m_eastsa_02", x = 408.2874, y = 6498.5161, z = 27.7665-0.99, h = 171.7359}, -- SŁUŻBA
     {Name = "csb_customer", x = 1086.8558, y = 6508.8164, z = 21.0474-0.99, h = 189.9318}, -- SPRZEDAWCA
 }
 
